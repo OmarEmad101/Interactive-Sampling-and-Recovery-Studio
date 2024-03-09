@@ -32,4 +32,6 @@
 - Omar Nabil
 - Khaled Mohamed Badr
 - Omar Emad
-- [Mirna Abdelmoez](https://www.linkedin.com/in/mirna-abdelmoez/)
+[![Mirna Abdelmoez](https://github.com/merna-abdelmoez.png)](https://github.com/merna-abdelmoez)
+
+
