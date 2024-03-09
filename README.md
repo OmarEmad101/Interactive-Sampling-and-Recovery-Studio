@@ -70,3 +70,11 @@
     </td>
   </tr>
 </table>
+
+## Acknowledgments
+
+**This project was supervised by Dr. Tamer Basha & Eng. Abdallah Darwish, who provided invaluable guidance and expertise throughout its development as a part of the Digital Signal Processing course at Cairo University Faculty of Engineering.**
+
+<div style="text-align: right">
+    <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
+</div>
