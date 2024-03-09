@@ -32,4 +32,4 @@
 - Omar Nabil
 - Khaled Mohamed Badr
 - Omar Emad
-- Mirna Abdelmoez
+- [Mirna Abdelmoez](https://www.linkedin.com/in/mirna-abdelmoez/)
