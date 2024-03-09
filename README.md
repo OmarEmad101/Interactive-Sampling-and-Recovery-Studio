@@ -27,7 +27,7 @@
 
 
 
-## Team Members
+
 ## Contributors <a name = "Contributors"></a>
 
 <table>
